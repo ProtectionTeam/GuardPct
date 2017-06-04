@@ -1,0 +1,2 @@
+bot_id = 385751486 -- Your Bot USER_ID
+sudo_users = {350727100,362101994,350727100--[[YOUE ID :|]]}
