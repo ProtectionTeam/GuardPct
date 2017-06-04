@@ -11,8 +11,6 @@
 |:--------|:------------|
 | [#!/]help | just send help in your group and get the commands |
 
-**You can use "#", "!", or "/" to begin all commands
-
 * * *
 
 # Installation
@@ -20,19 +18,18 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/ProtectionTeam/PCT.git
-cd PCT
-chmod +x pct.sh
-./pct.sh install
-./pct.sh 
+git clone https://github.com/ProtectionTeam/GardPct.git
+cd GardPct
+chmod +x install.sh
+./install.sh
 # Enter a phone number & confirmation code.
 ```
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/ProtectionTeam/PCT.git && cd PCT && chmod +x pct.sh && ./pct.sh install && ./pct.sh
-or 
-cd $HOME && git clone https://github.com/ProtectionTeam/PCT.git && cd PCT && chmod +x pct.sh && chmod +x auto.sh && ./pct.sh install && ./pct.sh && ./auto.sh
+cd $HOME && git clone https://github.com/ProtectionTeam/GardPct.git && cd GardPct && chmod +x install.sh
+ && ./install.sh
+
 ```
 
 * * *
