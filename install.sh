@@ -50,6 +50,6 @@ wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz
  wget "https://valtman.name/files/telegram-cli-1222"
  mv telegram-cli-1222 tg
  chmod +x tg
- chmod +x Guard.sh
+ chmod +x guard.sh
  chmod +x auto.sh
- ./Guard.sh
+ ./guard.sh
