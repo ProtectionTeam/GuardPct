@@ -18,7 +18,7 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/ProtectionTeam/GardPct.git
+git clone https://github.com/ProtectionTeam/GuardPct.git
 cd GardPct
 chmod +x install.sh
 ./install.sh
@@ -27,7 +27,7 @@ chmod +x install.sh
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/ProtectionTeam/GardPct.git && cd GardPct && chmod +x install.sh
+cd $HOME && git clone https://github.com/ProtectionTeam/GuardPct.git && cd GardPct && chmod +x install.sh
  && ./install.sh
 
 ```
@@ -51,4 +51,4 @@ add your ID at line 72 in bot.lua and add your ID at line 2 in tools.lua, Then r
 # [ProtectionTeam](https://telegram.me/ProtectionTeam)
 
 # Tnx 
-# [BeyondTeam](https://telegram.me/BeyondTeam)
+# [TOOFAN](https://telegram.me/Toofan)
