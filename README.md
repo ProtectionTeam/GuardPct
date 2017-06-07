@@ -19,7 +19,7 @@
 # Let's install the bot.
 cd $HOME
 git clone https://github.com/ProtectionTeam/GuardPct.git
-cd GardPct
+cd GuardPct
 chmod +x install.sh
 ./install.sh
 # Enter a phone number & confirmation code.
@@ -27,8 +27,7 @@ chmod +x install.sh
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/ProtectionTeam/GuardPct.git && cd GardPct && chmod +x install.sh
- && ./install.sh
+cd $HOME && git clone https://github.com/ProtectionTeam/GuardPct.git && cd GuardPct && chmod +x install.sh && ./install.sh
 
 ```
 
