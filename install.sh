@@ -1,4 +1,4 @@
-u
+au
 sudo apt-get update
 
 sudo apt-get upgrade -y
@@ -50,6 +50,6 @@ wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz
  wget "https://valtman.name/files/telegram-cli-1222"
  mv telegram-cli-1222 tg
  chmod +x tg
- chmod +x Gurd.sh
+ chmod +x Gurad.sh
  chmod +x auto.sh
  ./Gurd.sh
